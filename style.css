@@ -1,0 +1,11 @@
+body{
+    background-color: cyan;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#countdown {
+    font-family: fantasy;
+    color: darkmagenta;
+    font-weight: bold;
+}
